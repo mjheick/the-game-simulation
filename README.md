@@ -1,6 +1,6 @@
 # the-game-simulation
 
-A card game with 97 sequential cards and 4 discards piles. Simulate a simple strategy so that no communication is possible between the players.
+A card game with 98 sequential cards and 4 discards piles. Simulate a simple strategy so that no communication is possible between the players.
 
 http://middys.nsv.de/wp-content/uploads/2018/01/the-game-english.pdf
 
