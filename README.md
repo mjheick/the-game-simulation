@@ -4,6 +4,12 @@ A card game with 97 sequential cards and 4 discards piles. Simulate a simple str
 
 http://middys.nsv.de/wp-content/uploads/2018/01/the-game-english.pdf
 
+https://www.nsv.de/produkt/130014184-4012426880391-the-game/
+
+# Credits
+
+Nürnberger-Spielkarten-Verlag GmbH, Forsthausstraße 3-5, D-90768 Fürth-Dambach
+
 # Strategy
 
 3 Rules:
