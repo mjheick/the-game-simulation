@@ -104,7 +104,7 @@ while ($game_in_session) {
         }
         if ($discard[3] > $card) {
             $can_play_card = true;
-            if ($discard[2] - $card < $card_distance) {
+            if ($discard[3] - $card < $card_distance) {
                 $card_distance = $discard[3] - $card;
                 $card_face = $card;
                 $discard_affected = 3;
